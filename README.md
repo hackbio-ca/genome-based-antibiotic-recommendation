@@ -1,6 +1,6 @@
-# demo-project
+# genome-based-antibiotic-recommendation
 
-A brief description of the project. Explain what it does and who it's for.
+Rapid Genome-Based Antibiotic Treatment Recommendation Tool
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
