@@ -22,21 +22,7 @@ install.packages("project-dependencies")
 
 ## Quick Start
 
-Provide a basic usage example or minimal code snippet that demonstrates how to use the project.
-
-```python
-# Example usage (Python)
-import my_project
-
-demo = my_project.example_function()
-print(demo)
-```
-```r
-# Example usage (R)
-library(my_project)
-
-demo <- example_function()
-print(demo)
+Visit our app at this link: 
 ```
 
 ## Usage

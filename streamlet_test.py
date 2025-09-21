@@ -236,7 +236,7 @@ if st.session_state.prediction_done:
             "role": "system",
             "content": (
                 "You are a highly knowledgeable physician assistant specializing in infectious diseases and antibiotics. "
-                "Keep your responses concise and to the point, citing WHO guidelines when relevant. "
+                "Keep your responses concise and to the point, but if you are not provided enough information about the case, ask for more info before suggesting a treatment. Citing WHO guidelines when relevant. "
                 f"Genome prediction summary: {genome_summary_trimmed}{context_text}"
             )
         }
