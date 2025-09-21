@@ -22,9 +22,6 @@ install.packages("project-dependencies")
 
 ## Quick Start
 
-<<<<<<< HEAD
-Visit our app at this link: 
-=======
 Visit the AmPy app here: https://ampyapp.streamlit.app/
 
 If the link is not working, you can access the app locally using Python 3.13.  
@@ -33,7 +30,6 @@ Install required packages using:
 pip install -r requirements.txt
 ```  
 Then run the streamlit app in your terminal using:
->>>>>>> 651d0a61e4bd5b037a6a9417e1b040fa5b0665e7
 ```
 streamlit run .\streamlet_test.py
 ```  
