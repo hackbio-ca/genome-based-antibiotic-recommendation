@@ -22,7 +22,7 @@ install.packages("project-dependencies")
 
 ## Quick Start
 
-Visit the AmPy app here: https://ampyapp.streamlit.app/
+Visit the AmPy app here: https://genome-based-antibiotic-recommendation.streamlit.app/
 
 If the link is not working, you can access the app locally using Python 3.13.  
 Install required packages using:
