@@ -36,7 +36,7 @@ streamlit run .\streamlet_test.py
 
 ## Usage
 
-Simply upload a bacterial genome fasta file (example file provided in repo), and start chatting with AmPy about potential treatment plans!
+Simply upload a bacterial genome fasta file (example file provided in repo: exampleBacFasta), and start chatting with AmPy about potential treatment plans!
 
 ## Contribute
 
