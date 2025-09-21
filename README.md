@@ -22,27 +22,25 @@ install.packages("project-dependencies")
 
 ## Quick Start
 
+<<<<<<< HEAD
 Visit our app at this link: 
+=======
+Visit the AmPy app here: https://ampyapp.streamlit.app/
+
+If the link is not working, you can access the app locally using Python 3.13.  
+Install required packages using:
+```python
+pip install -r requirements.txt
+```  
+Then run the streamlit app in your terminal using:
+>>>>>>> 651d0a61e4bd5b037a6a9417e1b040fa5b0665e7
 ```
+streamlit run .\streamlet_test.py
+```  
 
 ## Usage
 
-Add detailed information and examples on how to use the project, covering its major features and functions.
-
-```python
-# More usage examples (Python)
-import my_project
-
-demo = my_project.advanced_function(parameter1='value1')
-print(demo)
-```
-```r
-# More usage examples (R)
-library(demoProject)
-
-demo <- advanced_function(parameter1 = "value1")
-print(demo)
-```
+Simply upload a bacterial genome fasta file (example file provided in repo), and start chatting with AmPy about potential treatment plans!
 
 ## Contribute
 
