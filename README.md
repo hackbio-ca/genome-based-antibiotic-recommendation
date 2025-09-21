@@ -22,41 +22,11 @@ install.packages("project-dependencies")
 
 ## Quick Start
 
-Provide a basic usage example or minimal code snippet that demonstrates how to use the project.
-
-```python
-# Example usage (Python)
-import my_project
-
-demo = my_project.example_function()
-print(demo)
-```
-```r
-# Example usage (R)
-library(my_project)
-
-demo <- example_function()
-print(demo)
-```
+Visit the AmPy app here: https://ampyapp.streamlit.app/ 
 
 ## Usage
 
-Add detailed information and examples on how to use the project, covering its major features and functions.
-
-```python
-# More usage examples (Python)
-import my_project
-
-demo = my_project.advanced_function(parameter1='value1')
-print(demo)
-```
-```r
-# More usage examples (R)
-library(demoProject)
-
-demo <- advanced_function(parameter1 = "value1")
-print(demo)
-```
+Simply upload a bacterial genome fasta file (example file provided in repo), and start chatting with AmPy about potential treatment plans!
 
 ## Contribute
 
