@@ -38,6 +38,9 @@ streamlit run .\streamlet_test.py
 
 Simply upload a bacterial genome fasta file (example file provided in repo: exampleBacFasta), and start chatting with AmPy about potential treatment plans!
 
+Example prompts:
+My patient is a 35 year old man with acute appendicitis what antibiotic should I give?
+
 ## Contribute
 
 Contributions are welcome! If you'd like to contribute, please open an issue or submit a pull request. See the [contribution guidelines](CONTRIBUTING.md) for more information.
